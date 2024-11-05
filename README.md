@@ -1,4 +1,4 @@
-# Nethunter PulseAudio
+# Nethunter Audio
 
 This script allows you to start, stop, and check the status of a PulseAudio TCP stream on a specified IP address and port.
 It's designed to route audio over TCP/IP from a Linux environment (such as Kali NetHunter) that uses PulseAudio, making it accessible on devices connected over a network (local host in this project).
@@ -25,8 +25,8 @@ It's designed to route audio over TCP/IP from a Linux environment (such as Kali 
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/IamCOD3X/Nethunter_PulseAudio.git
-   cd Nethunter_PulseAudio
+   git clone https://github.com/IamCOD3X/Nethunter_Audio.git
+   cd Nethunter_Audio
    ```
    or 
 
